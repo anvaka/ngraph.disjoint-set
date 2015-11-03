@@ -1,0 +1,24 @@
+{
+  "name": "ngraph.disjoint-set",
+  "version": "1.0.0",
+  "description": "Disjoint-set data structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ngraph",
+    "dijoint",
+    "set",
+    "union",
+    "find",
+    "merge",
+    "find"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/ngraph.disjoint-set"
+  }
+}
