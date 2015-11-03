@@ -4,7 +4,7 @@
   "description": "Disjoint-set data structure",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tap test/*.js"
   },
   "keywords": [
     "ngraph",
@@ -20,5 +20,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/anvaka/ngraph.disjoint-set"
+  },
+  "devDependencies": {
+    "tap": "^2.2.0"
   }
 }
