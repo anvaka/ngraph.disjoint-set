@@ -16,7 +16,7 @@ a.union(b);
 
 // After sets are united, searching for representative element of the set
 // should result in exact same element:
-asssert(a.find() === b.find());
+assert(a.find() === b.find());
 ```
 
 Optionally you can pass payload to identify element of the set:
@@ -35,7 +35,7 @@ Worst-case running time of `O(α(N))` per `union()`, `find()` operations.
 Creation of a new set is `O(1)`.
 
 α(N) is inverse of Ackerman function; In practice the amortized running time
-per operation is a small constant (less than 5 for all parctical values of n).
+per operation is a small constant (less than 5 for all practical values of n).
 
 # install
 
