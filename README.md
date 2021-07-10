@@ -1,4 +1,4 @@
-# ngraph.disjoint-set [![Build Status](https://travis-ci.org/anvaka/ngraph.disjoint-set.svg)](https://travis-ci.org/anvaka/ngraph.disjoint-set)
+# ngraph.disjoint-set [![build status](https://github.com/anvaka/ngraph.disjoint-set/actions/workflows/tests.yaml/badge.svg)](https://github.com/anvaka/ngraph.disjoint-set/actions/workflows/tests.yaml)
 
 [Disjoint-set data structure](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
 
