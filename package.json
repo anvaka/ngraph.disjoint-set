@@ -4,7 +4,7 @@
   "description": "Disjoint-set data structure",
   "main": "index.js",
   "scripts": {
-    "test": "tap test/*.js"
+    "test": "tap --branches=70 --lines=70 --statements=70 --functions=70 test/*.js"
   },
   "keywords": [
     "ngraph",
@@ -22,6 +22,6 @@
     "url": "https://github.com/anvaka/ngraph.disjoint-set"
   },
   "devDependencies": {
-    "tap": "^14.10.8"
+    "tap": "^15.0.9"
   }
 }
