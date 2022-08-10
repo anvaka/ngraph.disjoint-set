@@ -22,6 +22,6 @@
     "url": "https://github.com/anvaka/ngraph.disjoint-set"
   },
   "devDependencies": {
-    "tap": "^15.1.6"
+    "tap": "^16.3.0"
   }
 }
